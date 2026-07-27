@@ -67,6 +67,7 @@
 
 ## hacktoberfest 
 
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
 ## javascript 
@@ -79,10 +80,12 @@
 
 ## nodejs 
 
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [microcmsio/microcms-js-sdk](https://github.com/microcmsio/microcms-js-sdk) - microCMS JavaScript SDK.
 
 ## others 
 
+- [grishick/pydantic-airtable](https://github.com/grishick/pydantic-airtable) - Python library for managing Pydantic objects in Airtable
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
