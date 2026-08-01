@@ -17,12 +17,15 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [linux](#linux)
+- [llm](#llm)
+- [macos](#macos)
 - [nodejs](#nodejs)
 - [others](#others)
 - [python](#python)
 - [python3](#python3)
 - [react](#react)
 - [shell](#shell)
+- [swift](#swift)
 - [terminal](#terminal)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
@@ -78,6 +81,14 @@
 
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
+## llm 
+
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+
+## macos 
+
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+
 ## nodejs 
 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -85,6 +96,11 @@
 
 ## others 
 
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
+- [reuters-graphics/spectre](https://github.com/reuters-graphics/spectre) - Spectre — cross-browser UI-audit harness for Reuters graphics projects. Runs a Playwright audit across your routes on emulated devices and produces a browsable HTML report, screenshots, pixel-diffs, a
+- [aboard-io/stellate](https://github.com/aboard-io/stellate) - A generative music instrument: 274 genres as points in a deterministic vector space, sampled from General MIDI with per-voice Faust effects, rendered live in the browser. Draw a path across a star map
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [grishick/pydantic-airtable](https://github.com/grishick/pydantic-airtable) - Python library for managing Pydantic objects in Airtable
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
@@ -115,6 +131,10 @@
 ## shell 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## swift 
+
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 ## terminal 
 
