@@ -7,11 +7,12 @@
 
 - [C](#c)
 - [C++](#c++)
+- [Dart](#dart)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [LLVM](#llvm)
 - [Others](#others)
 - [Python](#python)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## C 
@@ -24,19 +25,23 @@
 - [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 
+## Dart 
+
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
+
 ## Java 
 
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## JavaScript 
 
+- [reuters-graphics/spectre](https://github.com/reuters-graphics/spectre) - Spectre — cross-browser UI-audit harness for Reuters graphics projects. Runs a Playwright audit across your routes on emulated devices and produces a browsable HTML report, screenshots, pixel-diffs, a
+- [aboard-io/stellate](https://github.com/aboard-io/stellate) - A generative music instrument: 274 genres as points in a deterministic vector space, sampled from General MIDI with per-voice Faust effects, rendered live in the browser. Draw a path across a star map
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
-
-## LLVM 
-
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
+- [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 
 ## Others 
 
@@ -54,6 +59,11 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
+
+## Swift 
+
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 ## TypeScript 
 
