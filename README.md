@@ -8,10 +8,12 @@
 - [C](#c)
 - [C++](#c++)
 - [Dart](#dart)
+- [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
 - [Python](#python)
+- [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
@@ -22,12 +24,21 @@
 
 ## C++ 
 
+- [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper) - Map any Dear ImGui control to a MIDI CC
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 
 ## Dart 
 
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
+
+## Go 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 
 ## Java 
 
@@ -51,6 +62,10 @@
 
 ## Python 
 
+- [python/buildmaster-config](https://github.com/python/buildmaster-config) - Configuration for buildbot.python.org
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
+- [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [grishick/pydantic-airtable](https://github.com/grishick/pydantic-airtable) - Python library for managing Pydantic objects in Airtable
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [psf/pyperf](https://github.com/psf/pyperf) - Toolkit to run Python benchmarks
@@ -60,8 +75,13 @@
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
 
+## Shell 
+
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
+
 ## Swift 
 
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
