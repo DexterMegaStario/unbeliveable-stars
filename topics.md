@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [api](#api)
 - [arduino](#arduino)
 - [awesome](#awesome)
@@ -13,25 +14,42 @@
 - [cli](#cli)
 - [cpp](#cpp)
 - [esp32](#esp32)
+- [framework](#framework)
+- [game-development](#game-development)
+- [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [github](#github)
+- [go](#go)
+- [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
+- [ios](#ios)
 - [javascript](#javascript)
+- [language](#language)
+- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [macos](#macos)
 - [nodejs](#nodejs)
 - [others](#others)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [react](#react)
 - [shell](#shell)
 - [swift](#swift)
 - [terminal](#terminal)
+- [tui](#tui)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
 
+## ai 
+
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+
 ## api 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - 🔧 Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment with buttery-smooth DX
 
 ## arduino 
@@ -40,6 +58,7 @@
 
 ## awesome 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## awesome-list 
@@ -52,6 +71,7 @@
 
 ## cli 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
@@ -63,19 +83,66 @@
 
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
+## framework 
+
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## game-development 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## game-engine 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## gamedev 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ## github 
 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
+## go 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
+
+## golang 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
+
+## gui 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ## hacktoberfest 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+## ios 
+
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 
 ## javascript 
 
 - [microcmsio/microcms-js-sdk](https://github.com/microcmsio/microcms-js-sdk) - microCMS JavaScript SDK.
+
+## language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+
+## library 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## linux 
 
@@ -96,6 +163,9 @@
 
 ## others 
 
+- [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper) - Map any Dear ImGui control to a MIDI CC
+- [python/buildmaster-config](https://github.com/python/buildmaster-config) - Configuration for buildbot.python.org
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [reuters-graphics/spectre](https://github.com/reuters-graphics/spectre) - Spectre — cross-browser UI-audit harness for Reuters graphics projects. Runs a Playwright audit across your routes on emulated devices and produces a browsable HTML report, screenshots, pixel-diffs, a
 - [aboard-io/stellate](https://github.com/aboard-io/stellate) - A generative music instrument: 274 genres as points in a deterministic vector space, sampled from General MIDI with per-voice Faust effects, rendered live in the browser. Draw a path across a star map
@@ -115,8 +185,15 @@
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
 
+## programming-language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+
 ## python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
+- [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [psf/pyperf](https://github.com/psf/pyperf) - Toolkit to run Python benchmarks
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
@@ -140,8 +217,13 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
+## tui 
+
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
 ## ui 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
 ## visual-studio-code 
