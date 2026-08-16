@@ -63,7 +63,7 @@
 ## Python 
 
 - [python/buildmaster-config](https://github.com/python/buildmaster-config) - Configuration for buildbot.python.org
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
 - [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [grishick/pydantic-airtable](https://github.com/grishick/pydantic-airtable) - Python library for managing Pydantic objects in Airtable
