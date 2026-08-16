@@ -58,7 +58,7 @@
 
 ## awesome 
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## awesome-list 
@@ -191,7 +191,7 @@
 
 ## python 
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
 - [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [psf/pyperf](https://github.com/psf/pyperf) - Toolkit to run Python benchmarks
