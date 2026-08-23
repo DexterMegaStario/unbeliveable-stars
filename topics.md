@@ -32,6 +32,7 @@
 - [macos](#macos)
 - [nodejs](#nodejs)
 - [others](#others)
+- [portfolio](#portfolio)
 - [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
@@ -185,6 +186,10 @@
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
+
+## portfolio 
+
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## programming-language 
 
