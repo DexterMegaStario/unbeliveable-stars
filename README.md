@@ -7,7 +7,6 @@
 
 - [C](#c)
 - [C++](#c++)
-- [Dart](#dart)
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -27,12 +26,9 @@
 
 - [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper) - Map any Dear ImGui control to a MIDI CC
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
-
-## Dart 
-
-- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 
 ## Go 
 
