@@ -171,7 +171,7 @@
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [reuters-graphics/spectre](https://github.com/reuters-graphics/spectre) - Spectre — cross-browser UI-audit harness for Reuters graphics projects. Runs a Playwright audit across your routes on emulated devices and produces a browsable HTML report, screenshots, pixel-diffs, a
 - [aboard-io/stellate](https://github.com/aboard-io/stellate) - A generative music instrument: 274 genres as points in a deterministic vector space, sampled from General MIDI with per-voice Faust effects, rendered live in the browser. Draw a path across a star map
-- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [humanitas-labs/quill](https://github.com/humanitas-labs/quill) - Ultra-minimalist macOS recording + transcription.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [grishick/pydantic-airtable](https://github.com/grishick/pydantic-airtable) - Python library for managing Pydantic objects in Airtable
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
