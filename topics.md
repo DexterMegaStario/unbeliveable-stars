@@ -43,6 +43,7 @@
 - [tui](#tui)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
+- [vscode](#vscode)
 
 ## ai 
 
@@ -233,6 +234,10 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
 ## visual-studio-code 
+
+- [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
+
+## vscode 
 
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 
