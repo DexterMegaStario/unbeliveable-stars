@@ -44,7 +44,7 @@
 ## Java 
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - To gain access, please finish setting up this repository now at:
 
 ## JavaScript 
 
