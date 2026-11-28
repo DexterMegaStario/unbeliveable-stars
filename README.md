@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
 - [Others](#others)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -44,7 +45,6 @@
 ## Java 
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## JavaScript 
 
@@ -74,6 +74,10 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
+
+## Rust 
+
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## Shell 
 
